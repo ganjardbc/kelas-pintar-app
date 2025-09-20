@@ -19,6 +19,7 @@ declare module 'vue' {
     Popover: typeof import('primevue/popover')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
+    Textarea: typeof import('primevue/textarea')['default']
     Toast: typeof import('primevue/toast')['default']
     UiAdvanceFilter: typeof import('./src/components/UiAdvanceFilter.vue')['default']
     UiCard: typeof import('./src/components/UiCard.vue')['default']
